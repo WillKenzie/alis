@@ -1,3 +1,6 @@
+PERSONAL DOWNLOAD LINK CMD : curl -sL https://raw.githubusercontent.com/TacoPhox/alis/master/download.sh | bash
+
+
 # alis
 
 Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
