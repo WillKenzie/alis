@@ -1,10 +1,6 @@
-PERSONAL DOWNLOAD LINK CMD
+### PERSONAL DOWNLOAD LINK CMD
 
-'''
-
-#curl -sL https://raw.githubusercontent.com/TacoPhox/alis/master/download.sh | bash
-
-'''
+ curl -sL https://raw.githubusercontent.com/TacoPhox/alis/master/download.sh | bash
 
 -----------------
 
